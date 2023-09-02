@@ -1,6 +1,17 @@
 ## 🍭 Zero-Two-MD 🍭
 ---
-A SIMPLE WHATSAPP BOT
+<p align="center"> 
+<u>♥️ A WHATSAPP BOT CREATED BY DILNETHU ♥️</u>
+</p>
+<p align="center">
+<img src="https://i.ibb.co/7gvgRTc/Black-White-Minimalist-Business-Logo.png" width="300" height="300"/>
+</p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ZERO+TWO+WHATSAPP+BOT" alt="">
+</p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+
 ### Scan Qr
 ***Get [SESSION-ID SERVER 1](https://zero-two-md-vihangayt0.koyeb.app/)***
 ***Get [SESSION-ID SERVER 2](https://replit.com/@vihangayt123/Zero-Two-Qr?output%20only=1&lite=1#index.js)***
