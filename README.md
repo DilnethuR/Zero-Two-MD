@@ -12,12 +12,18 @@
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DILNETHU-red.svg?style=for-the-badge&logo=github"></a>
 
+#
+
 ### Scan Qr
 ***Get [SESSION-ID SERVER 1](https://zero-two-md-vihangayt0.koyeb.app/)***
 ***Get [SESSION-ID SERVER 2](https://replit.com/@vihangayt123/Zero-Two-Qr?output%20only=1&lite=1#index.js)***
 
+#
+
 ### Get DB Url
 ***[GET](https://dashboard.render.com/)***
+
+#
 
 ### Add Config Vars
 1. ```SESSION_ID```***Session ID***
@@ -30,6 +36,8 @@
 8. ```ALIVE```***default Or youre alive***
 9. ```FOOTER```***Youre name***
 10. ```LOGO```***Youre logo url***
+
+#
 
 ### Deploy
 1. ***Deploy on heroku [Tutorial](https://www.youtube.com/watch?v=ZX_uCZXNHbk).***
