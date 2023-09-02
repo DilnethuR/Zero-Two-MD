@@ -10,7 +10,7 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ZERO+TWO+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DILNETHU-red.svg?style=for-the-badge&logo=github"></a>
 
 ### Scan Qr
 ***Get [SESSION-ID SERVER 1](https://zero-two-md-vihangayt0.koyeb.app/)***
